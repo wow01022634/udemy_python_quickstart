@@ -1,4 +1,8 @@
 # udemy_python_quickstart
+
+This is excerceise files from udemy_python_quickstart course.
+Please feel free to enjoy downlownding and manpulating the source code whie learning from online.
+
 MIT License
 
 Copyright (c) 2021 Python QuickStart Foundation / Andrew Ahn
