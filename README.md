@@ -1,7 +1,7 @@
 # udemy_python_quickstart
 
 This is excerceise files from udemy_python_quickstart course.
-Please feel free to enjoy downlownding and manpulating the source code whie learning from online.
+Please feel free to enjoy downlownding and manpulating the source code while learning.
 
 MIT License
 
